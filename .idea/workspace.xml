@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2635ccd-b6eb-456a-9a42-f35bc13d4e30" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/esgi-2020-5iw-demo-back.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/esgi-2020-5iw-demo-back.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Controller/DefaultController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/DefaultController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599568150285</updated>
-      <workItem from="1599568151712" duration="3744000" />
+      <workItem from="1599568151712" duration="4413000" />
     </task>
     <servers />
   </component>
